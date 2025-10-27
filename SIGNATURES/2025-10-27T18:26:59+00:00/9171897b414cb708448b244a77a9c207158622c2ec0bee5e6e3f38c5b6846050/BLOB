@@ -1,0 +1,1 @@
+{"critical":{"identity":{"docker-reference":"ghcr.io/almet/dangerzone/dangerzone-testing"},"image":{"docker-manifest-digest":"sha256:9171897b414cb708448b244a77a9c207158622c2ec0bee5e6e3f38c5b6846050"},"type":"cosign container image signature"},"optional":null}
